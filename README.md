@@ -1,4 +1,4 @@
-## Hi there, i'm francisco
+## Hello there, my name is Francisco
 
 ## I'm a system engineering student and dev working at Certius Tech
 - 📎 I'm currently working on my portfolio 🔖 
